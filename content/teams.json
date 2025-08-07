@@ -24,6 +24,21 @@
       "name": "Ekta Rawat",
       "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754572441/admin/teams/members/member_1754568510733_3.jpg",
       "id": 1754568510723
+    },
+    {
+      "name": "Asta Sati ",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754572491/admin/teams/members/member_1754568564910_4.jpg",
+      "id": 1754568564898
+    },
+    {
+      "name": "Anshika Sati",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754572598/admin/teams/members/member_1754568663201_5.png",
+      "id": 1754568603970
+    },
+    {
+      "name": "Mudit Bhaguna",
+      "image": null,
+      "id": 1754568648098
     }
   ]
 }
