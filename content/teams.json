@@ -3,5 +3,12 @@
   "subtitle": "Meet the people behind our success",
   "content": "erwe rohwoier huiwerouwh ",
   "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754557627/admin/teams/teams_hero_1754553704978.jpg",
-  "meta": "Team profiles updated quarterly"
+  "meta": "Team profiles updated quarterly",
+  "members": [
+    {
+      "name": "Saurabh Thapliyal",
+      "image": null,
+      "id": 1754563086941
+    }
+  ]
 }
