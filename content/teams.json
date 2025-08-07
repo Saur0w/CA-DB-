@@ -7,8 +7,13 @@
   "members": [
     {
       "name": "Saurabh Thapliyal",
-      "image": null,
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754568226/admin/teams/members/member_1754564306457_0.jpg",
       "id": 1754563086941
+    },
+    {
+      "name": "Ayushhh Rawat",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754568259/admin/teams/members/member_1754564334218_1.jpg",
+      "id": 1754564334211
     }
   ]
 }
