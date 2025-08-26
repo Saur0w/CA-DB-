@@ -1,3 +1,17 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "karta kya hai",
+      "subtitle": "raftar ",
+      "content": "mai bata hun voh karta kya hai, ghost writing thodi hai darta kya hai\n",
+      "image": null,
+      "author": "Karnma ",
+      "tags": [],
+      "slug": "karta-kya-hai",
+      "publishedAt": "2025-08-26T17:42:24.897Z",
+      "id": "1756230191258",
+      "createdAt": "2025-08-26T17:43:11.910Z",
+      "updatedAt": "2025-08-26T17:43:11.910Z"
+    }
+  ]
 }
