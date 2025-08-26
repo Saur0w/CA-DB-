@@ -1,17 +1,3 @@
 {
-  "posts": [
-    {
-      "title": "Hello World ",
-      "subtitle": "werwer",
-      "content": "swerw",
-      "image": null,
-      "author": "Saurabh",
-      "tags": [],
-      "slug": "hello-world-",
-      "publishedAt": "2025-08-26T17:30:35.794Z",
-      "id": "1756229452058",
-      "createdAt": "2025-08-26T17:30:52.754Z",
-      "updatedAt": "2025-08-26T17:30:52.754Z"
-    }
-  ]
+  "posts": []
 }
