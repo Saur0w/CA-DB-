@@ -1,6 +1,19 @@
 {
   "posts": [
     {
+      "title": "Soro",
+      "subtitle": "Ayussssss",
+      "content": "Ektaaaaaaa eh",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1756231635/admin/blog-posts/blog_soro.jpg",
+      "author": "Astaaaa",
+      "tags": [],
+      "slug": "soro",
+      "publishedAt": "2025-08-26T18:05:32.926Z",
+      "id": "1756231574504",
+      "createdAt": "2025-08-26T18:06:15.453Z",
+      "updatedAt": "2025-08-26T18:06:15.453Z"
+    },
+    {
       "title": "Atoms ",
       "subtitle": "said the sky remix ",
       "content": "take me back to your atoms oh, I was a fool back then, I was a fool back then",
