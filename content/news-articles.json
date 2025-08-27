@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "title": "Chess in Schools:",
+      "subtitle": "Revolutionary Strategy Game Transforms Student Learning Across India",
+      "content": "A growing movement across Indian educational institutions is demonstrating that chess isn't just a game—it's a powerful educational tool that's revolutionizing how students learn and think.\n\nRecent studies conducted in schools from Maharashtra to Kerala show that students who participate in regular chess instruction demonstrate remarkable academic improvements, with test scores increasing by an average of 17.3% compared to traditional enrichment activities.",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1756283887/admin/news/news_1756283799189.jpg",
+      "source": "NEW DELHI, INDIA",
+      "categories": [
+        "Education",
+        "Sports",
+        "Cognitive Development",
+        "Student Achievement"
+      ],
+      "slug": "chess-in-schools",
+      "publishedAt": "2025-08-27T08:36:39.184Z",
+      "urgent": false,
+      "location": "New Delhi, India",
+      "relatedLinks": [],
+      "id": "1756284136666",
+      "createdAt": "2025-08-27T08:42:17.246Z",
+      "updatedAt": "2025-08-27T08:42:17.246Z"
+    },
+    {
       "title": "Downtown mai lagi agg",
       "subtitle": "Chardiwari",
       "content": "sabhi bhage ",
