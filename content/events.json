@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "Handshake",
+      "subtitle": "yayyyyyyyyyyyyyy",
+      "content": "Tera rasta mai choddon naaaaaaa",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1756280448/admin/events/event_1756280358837.jpg",
+      "organizer": "Saurow",
+      "categories": [],
+      "slug": "handshake",
+      "eventDate": "2025-08-27T00:00:00Z",
+      "eventTime": "",
+      "location": "Tere fav. rapper se bhra gaya venue ",
+      "price": "",
+      "registrationRequired": false,
+      "registrationLink": "",
+      "contact": "",
+      "email": "",
+      "phone": "",
+      "id": "1756280445210",
+      "createdAt": "2025-08-27T07:40:49.383Z",
+      "updatedAt": "2025-08-27T07:40:49.383Z"
+    },
+    {
       "title": "Ayuss ka birthdayyyyyyyy",
       "subtitle": "could we stay in bloomm",
       "content": "qerhuwhu hweiuhrw wyeryw is a iuwheurh ayyuus ",
