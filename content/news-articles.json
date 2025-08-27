@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "title": "Downtown mai lagi agg",
+      "subtitle": "Chardiwari",
+      "content": "sabhi bhage ",
+      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1756282670/admin/news/news_downtown-mai-lagi-agg.jpg",
+      "source": "Spotify",
+      "categories": [],
+      "slug": "downtown-mai-lagi-agg",
+      "publishedAt": "2025-08-27T08:15:57.497Z",
+      "urgent": false,
+      "location": "",
+      "relatedLinks": [],
+      "id": "1756282617418",
+      "createdAt": "2025-08-27T08:16:57.956Z",
+      "updatedAt": "2025-08-27T08:16:57.956Z"
+    }
+  ]
+}
