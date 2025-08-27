@@ -1,17 +1,23 @@
 {
   "posts": [
     {
-      "title": "its working",
-      "subtitle": "yayyyyyyyyyyyyyy",
-      "content": "Rawat",
+      "title": "Minimalist Perspectives: The Geometry of Horizons",
+      "subtitle": "How Simplicity Transforms Urban Spaces",
+      "content": "In a world often overwhelmed by visual clutter, minimalism offers a chance to breathe. The attached image distills the essence of urban architecture into stark lines, muted tones, and open space.\nCaptured from a low angle, the photograph centers on a building’s edge — an intersection of metal and human activity, suspended in a sea of negative space. The vast sky, almost featureless, dominates the frame, challenging the viewer to focus not just on what is present, but also on the beauty of absence.\n\nThis composition is an exercise in restraint. The geometric shapes of railings and platforms contrast playfully against the organic silhouettes of people, each a subtle element in an otherwise ordered scene. It is in this balance between structure and void that minimalist design truly thrives: every element rendered purposeful by its simplicity.\n\nUrban photography often celebrates bustling streets or intricate details, but here, the atmosphere feels contemplative and spacious. The building reaches upward, inviting speculation about the stories of those standing at its edge. What draws people to high vantage points? Sometimes, perspective is about more than seeing far — it’s about appreciating the stillness and clarity that comes from stepping back.\n\nAs a web developer and designer, there’s inspiration here for interface layouts, hero sections, and page structure. Minimalism isn’t just an aesthetic—it’s a mindset that pares down decisions to their most meaningful forms, offering users (and viewers) a clearer experience.\n\nWhen architecture and art meet simplicity, the horizon widens. Space opens up. What’s left is clarity, possibility, and a quiet confidence that sometimes, less really is more.",
       "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1756231795/admin/blog-posts/blog_it-working.jpg",
       "author": "Anjaliii",
-      "tags": [],
-      "slug": "its-working",
+      "tags": [
+        "architecture",
+        "minimalism",
+        "urban photography",
+        "geometry",
+        "perspective"
+      ],
+      "slug": "minimalist-perspectives-the-geometry-of-horizons",
       "publishedAt": "2025-08-26T18:08:15.635Z",
       "id": "1756231732275",
       "createdAt": "2025-08-26T18:08:52.824Z",
-      "updatedAt": "2025-08-27T03:09:56.225Z"
+      "updatedAt": "2025-08-27T03:21:53.120Z"
     },
     {
       "title": "Grey Serenity: A Moody Day at the Shore",
