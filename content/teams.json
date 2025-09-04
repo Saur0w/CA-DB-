@@ -6,12 +6,12 @@
   "meta": "Team profiles updated quarterly",
   "members": [
     {
-      "name": "Saurabh Thapliyal",
+      "name": "Aman Goswami",
       "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754568226/admin/teams/members/member_1754564306457_0.jpg",
       "id": 1754563086941
     },
     {
-      "name": "Ayushhh Rawat",
+      "name": "Surson Topno",
       "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754568259/admin/teams/members/member_1754564334218_1.jpg",
       "id": 1754564334211
     },
@@ -21,24 +21,14 @@
       "id": 1754567314436
     },
     {
-      "name": "Ekta Rawat",
+      "name": "Aastha Dutta",
       "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754572441/admin/teams/members/member_1754568510733_3.jpg",
       "id": 1754568510723
     },
     {
-      "name": "Asta Sati ",
+      "name": "Shivani Kanojia",
       "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754572491/admin/teams/members/member_1754568564910_4.jpg",
       "id": 1754568564898
-    },
-    {
-      "name": "Anshika Sati",
-      "image": "https://res.cloudinary.com/disi1b2g4/image/upload/v1754572598/admin/teams/members/member_1754568663201_5.png",
-      "id": 1754568603970
-    },
-    {
-      "name": "Mudit Kumar",
-      "image": null,
-      "id": 1754568648098
     }
   ]
 }
